@@ -1,0 +1,38 @@
+http://127.0.0.1:5500/_eerste_HTML_pagina/tweede_HTML_pagina/index.html
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Honden </title>
+    </head>
+    <body>
+
+        <header>
+        <h1> Mijn lievelingshond </h1> </header>
+
+        <img width="500" src="hondenrassen.png"> 
+       
+        <main>
+       <h2>Mijn top 3 honden </h2>  
+       
+        <ol>
+            <li> Golden retriever </li>
+            <li> Flat Coated Retriever </li>
+            <li> Teckel </li> 
+        </ol> </main>
+    
+<hr>
+
+<article>
+        <h3> Waarom Golden Retriever op 1?</h3>
+        <p>Het zijn erg zachte en lieve honden. Hieronder volgt een linkje naar de Golden Retriever website. </p>
+    </article>
+    
+    <nav>
+        <a href="https://nl.wikipedia.org/wiki/Golden_retriever" target="_blank"> Golden Retriever</a> <h2> Pagina 2 </h2> 
+
+        <a href="page3.html" traget="blank"> Beertje mijn hond</a>
+
+    </nav>
+        
+    
